@@ -1,2 +1,2 @@
-# Old-Russian-bubble-sorting
-Old Russian bubble sorting created by the will of Perun
+# Древнерусская пузырьковая сортировка на В††
+Сортировка на языке программирования древних русов, который скрывался от ящерских глаз целых 1000 лет
